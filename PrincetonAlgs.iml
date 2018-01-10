@@ -12,6 +12,9 @@
       <sourceFolder url="file://$MODULE_DIR$/percolation/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/queues/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/queues/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/collinearPoints/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/collinearPoints/src/main/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/collinearPoints/src/test/java" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
