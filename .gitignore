@@ -1,2 +1,5 @@
-target/**
+**/target/**
+.idea/**
+PrincetonAlgs.iml
+**/*.iml
 .DS_Store
